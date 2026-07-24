@@ -1,0 +1,9 @@
+{
+  "name": "carvedrock-functions",
+  "version": "1.0.0",
+  "description": "CarvedRock sample HTTP-triggered Azure Function used for automated delivery with GitHub Actions.",
+  "scripts": {
+    "start": "func start",
+    "test": "echo \"No tests specified\" && exit 0"
+  }
+}
